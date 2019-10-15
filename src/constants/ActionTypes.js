@@ -1,0 +1,13 @@
+export const LIST_RENDER_CELL = "LIST_RENDER_CELL";
+export const SORT_LIST = "SORT_LIST";
+export const CHANGE_VALUE = "CHANGE_VALUE";
+export const MASK_VALUE = "MASK_VALUE";
+export const UNMASK_VALUE = "UNMASK_VALUE";
+export const ADD_NEW_CATEGORY = "ADD_NEW_CATEGORY";
+export const ADD_NEW_RECORD = "ADD_NEW_RECORD";
+export const ON_TAG = "ON_TAG";
+export const LOAD_DATA = "LOAD_DATA";
+export const CHANGE_STATUS_SEARCH = "CHANGE_STATUS_SEARCH";
+export const LOAD_DEAL_DATA = "LOAD_DEAL_DATA";
+export const ON_CHOOSE_LANGUAGE = "ON_CHOOSE_LANGUAGE";
+export const ON_ACTIVE_LANGUAGE = "ON_ACTIVE_LANGUAGE";
